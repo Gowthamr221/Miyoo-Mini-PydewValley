@@ -20,11 +20,12 @@ using pytmx version 3.21.7 (source) and six module
 
 - the app path should be at "/mnt/SDCARD/App/Sample" otherwise it wont work
 
-- lauch from ui
+###Launch
+
 ![Menu](Res/menu.png)
-- MainLevel
+
 ![Video](Res/level.gif)
-- Water view
+
 ![Water](Res/water.gif)
 
 ## How to develop
